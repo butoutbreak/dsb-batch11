@@ -14,6 +14,6 @@ This boot camp runs about 4 months, 10 sprints.
 - Python
 - Dashboard
 
-Website
+Website: https://buioutbreak.wordpress.com
 
 Email: pongsakorn.boonyateera@gmail.com
