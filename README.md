@@ -16,6 +16,6 @@ This boot camp runs about 4 months, 10 sprints.
 
 Website: https://buioutbreak.wordpress.com
 
-My Image: ![Koala](https://cdn-useast1.kapwing.com/static/templates/surprised-koala-meme-template-full-e084d34f.webp)
+My Image: ![Koala](https://external-preview.redd.it/Az7NTf1xvKnY_9oZO_PN3BArgnrN6WURKI0ro8hRo80.jpg?auto=webp&s=257d1da3e33cd60616770b36173d7436e464d45a)
 
 Email: pongsakorn.boonyateera@gmail.com
